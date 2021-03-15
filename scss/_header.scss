@@ -1,0 +1,31 @@
+header {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    width: 100%;
+    background-color: cadetblue;
+    z-index: 1;
+
+    img {
+        max-height: 80%;
+    }
+    
+    div {
+        display: flex;
+        flex-direction: column;
+        margin-left: 5%;
+        color: #222;
+
+        h1 {
+            font-size: $font-xl;
+        }
+
+        h4 {
+            font-size: $font-l;
+        }
+    }
+
+
+}

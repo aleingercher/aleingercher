@@ -1,0 +1,33 @@
+@import 'variables.scss';
+@import 'mixins.scss';
+@import 'header.scss';
+@import 'mainLeft.scss';
+@import 'mainRight.scss';
+
+/* fuentes */
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;600&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(53, 71, 71);
+    font-family: 'Rajdhani', sans-serif;
+}
+
+main {
+    display: flex;
+    background-color: cadetblue;
+    height: 200vh;
+    padding-top: 20vh;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: $tablet) {
+   
+}
+

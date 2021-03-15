@@ -1,0 +1,25 @@
+
+.main__right {
+    background-color: rgb(55, 94, 95);
+    flex: 0 0 75%;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-auto-rows: 40vh;
+    padding: 50px 15px;
+
+    div {
+        @include dimensiones(100%, 100%);
+        background-color: #72767e;
+    }
+
+
+    p {
+        color: $blanco;
+        text-align: justify;
+        display: inline-block;
+        width: 80%;
+    }
+
+ 
+}

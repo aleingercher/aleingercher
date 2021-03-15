@@ -1,0 +1,22 @@
+.main__left {
+    background-color: darkgray;
+    position: relative;
+    flex: 0 0 25%;
+    display: flex;
+    justify-content: center;
+    padding-top: 5vh;
+}
+
+.main__left-img {
+    position: sticky;
+    top: 4px;
+    width: 100%;
+    max-width: 200px;
+    z-index: 3;
+
+    & img {
+        width: 80%;
+        text-align: center;
+        margin: 0 10%;
+    }
+}
