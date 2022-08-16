@@ -35,7 +35,7 @@ And a touch of Node.js
 
 <div style="display: flex; align-items: center; flex-direction: column">
                 <h2>Linkedin</h2>
-                <a href="https://www.linkedin.com/alejandroingercher">
+                <a href="https://www.linkedin.com/in/alejandroingercher">
                 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFv5Rlz7cFbvQ/profile-displayphoto-shrink_800_800/0/1622246924735?e=1666224000&v=beta&t=DqnJnxIhJiKp0H5-fkSAT1YBEFObf7GNsYajsvCVAdg" width=100 style="border-radius: 100%"/>
                 </a>
 </div>
