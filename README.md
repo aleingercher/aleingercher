@@ -14,16 +14,13 @@ Here you will find some of my works.
 
 - Javascript
 - Typescript
+- React.js
 
 ### 📖 to follow the path as a fullstack:
 
 - Java
-- Spring
-- React.js
-
-And a touch of Node.js
-
-
+- Spring boot
+- Node.js
 
 ## Other interests
 
